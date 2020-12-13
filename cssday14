@@ -1,0 +1,53 @@
+<html>
+    <head><title>day14</title>
+        <style>
+            div{
+                margin:20px; 
+                width:1000px; 
+                height:100px;
+                background: crimson;
+                color:grey; 
+            }  
+            h2{ 
+                background:hotpink;
+                color:chartreuse; 
+                width: 1000px; 
+                height: 100px;
+                padding-right:10px; 
+                padding-bottom: 10px;  
+                text-align: center;  
+                border-top-width: 25px; 
+                border-top-color:yellow;
+                border-top-style:solid;
+                
+            } 
+            body{
+                background-color: black;
+            } 
+            h3{
+                background: palevioletred; 
+                color: purple; 
+                width: 1000px; 
+                height: 100px; 
+                border-radius: 100px; 
+                text-align: center; 
+                border:solid rgb(13, 212, 153);   
+                background-image:url("photo-1512987415479-85f370bca602.jpg");
+                background-repeat: no-repeat; 
+                background-size: 1000px 100px; 
+                background-position: center;
+            }
+        </style>
+    </head>
+    <body>  
+        <div>
+        <h1>Assignment oda heading</h1>
+        <p>ethu...... oru...... paragraph.....</p>  </div>
+        <br>
+        <h2>next ena heading vaikalam....</h2> 
+          
+        <br> 
+        <h3  >Assignment mudinchi...</h3>
+
+    </body>
+</html>
